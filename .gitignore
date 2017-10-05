@@ -1,0 +1,16 @@
+syntax: glob
+
+# Artifacts of building
+stripfriendlyname
+/CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# vim temporary files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
